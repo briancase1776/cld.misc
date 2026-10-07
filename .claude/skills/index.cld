@@ -1,3 +1,4 @@
 INDEX .claude/skills/
 D meter/       This session's limit status and reset, context, cost
 D meter-all/   Every recent session's context, cost, last limit reading
+D me/          IRC-style /me action: prints Brian's action line, conversation carries on
