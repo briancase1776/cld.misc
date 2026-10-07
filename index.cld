@@ -1,0 +1,4 @@
+INDEX ./
+F README.md      What is here, one line a skill
+F LICENCE.TXT    MIT
+D .claude/       The skills
