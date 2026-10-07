@@ -36,4 +36,3 @@ Facts:
 - This reading is current because this session is the one asking.
   Another session's reading is from its own last turn; `meter-all`
   marks those stale once their window has reset.
-</content>
