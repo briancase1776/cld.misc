@@ -1,3 +1,6 @@
 INDEX .claude/skills/
-D meter/       This session's limit status and reset, context, cost
-D meter-all/   Every recent session's context, cost, last limit reading
+D meter/          This session's limit status and reset, context, cost
+D meter-all/      Every recent session's context, cost, last limit reading
+D scratch/        Open a scratch pad (Claude/scratch/), report where the thread left off -- read side; no-arg lists pads. Moved from DNATools 2026-10-21
+D scratch-write/  Capture current input into a pad, distilled per Claude/scratch-pad-format.txt, committed + pushed. Moved from DNATools 2026-10-21
+D scratch-drain/  Graduate a topic pad into a spec + plan items, mark it drained. Moved from DNATools 2026-10-21
